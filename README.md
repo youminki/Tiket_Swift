@@ -115,5 +115,4 @@
 
   <img src="https://github.com/user-attachments/assets/f9c97270-ed8f-45ce-97ef-69f9c7cefc17" alt="알림1" style="width: 200px; height: auto;"> <img src="https://github.com/user-attachments/assets/b06531af-ff12-4251-8b8a-e2c5281812de" alt="알림2" style="width: 200px; height: auto;">
 
-### E. Trouble Shooting
-https://github.com/T82-encore/IOS_T82/wiki/%08Trouble-Shooting
+
